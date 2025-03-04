@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-
+https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTV3bW9meGhiamlyeXhzYnQyNGFja200Zml0cnpmaWNidTB6dHN2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kPO5D1YTTUSTV7iwQw/giphy.gif
 
 ## Notes
 
